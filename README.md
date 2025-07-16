@@ -7,7 +7,7 @@ Senior lead engineer specializing in secure payments, cryptography, and satellit
 
 🔹 **Experience**:
 * Architecting high-volume payment systems at Ant Group & MultiSafepay.
-* Strong background in satellite communication systems, with expertise in **DSP, FPGA, PLL, FIR & analog filter design, and RF engineering.**
+* Strong background in satellite communication systems, with expertise in DSP, FPGA, PLL, FIR & analog filter design, and RF engineering.
 
 ### 🚀 Here are some of my projects
 
