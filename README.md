@@ -16,9 +16,9 @@ Senior lead engineer specializing in secure payments and cryptography.
 - [WhiteBoxCrypto](https://github.com/Bevia/White-box-cryptography): Demo of whitebox AES implementation
 - [Llama3Agent](https://github.com/Bevia/Llama3Agent): Llama AI demo  
 - [SeniorSoftwareStaffEngProgrammingTasks](https://github.com/Bevia/SeniorSoftwareStaffEngProgrammingTasks): Python programming task for software engineers
-- [MutualAthenticationEncryption](https://github.com/Bevia/MutualAthenticationEncryption): Implementation of mutual authentication and symmetric encryption between two parties using a shared secret. Demonstrates secure key exchange, AES encryption, and identity validation.
-- [AuthMicroservice](https://github.com/Bevia/AuthMicroservice): Lightweight authentication microservice with JWT support, secure password handling, and RESTful API endpoints. Designed for scalable, stateless user authentication in distributed systems.
-- [DigitalCommunications](https://github.com/Bevia/DigitalCommunications): Educational toolkit for digital communication systems. Includes simulations of modulation techniques, signal encoding, and performance analysis in Python. Ideal for DSP and telecom fundamentals.
+- [MutualAthenticationEncryption](https://github.com/Bevia/MutualAthenticationEncryption): Secure mutual authentication and AES encryption with shared secret
+- [AuthMicroservice](https://github.com/Bevia/AuthMicroservice): Lightweight authentication microservice with JWT and secure password handling
+- [DigitalCommunications](https://github.com/Bevia/DigitalCommunications): Educational toolkit for digital communication system simulations in Python
 
 📫 **Reach me via [LinkedIn](https://www.linkedin.com/in/vincentbevia/) or email: vbevia@gmail.com **
 
