@@ -1,16 +1,15 @@
 ## Hi there 👋
+# 👋 Hello! I’m Vincent
 
-<!--
-**Bevia/Bevia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior lead engineer specializing in secure payments and cryptography.
 
-Here are some ideas to get you started:
+🔹 **Expertise**: Python, C++, Swift, microservices, HSMs, DUKPT/ANSI X9.24  
+🔹 **Experience**: Architecting high-volume payment systems at Ant Group & MultiSafepay  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+- [Llama3Agent](https://github.com/Bevia/Llama3Agent): AI demo  
+- [DukptDemoApp](https://github.com/Bevia/DukptDemoApp): DUKPT simulation  
+- [X9.24-3‑2017](https://github.com/Bevia/X9.24-3-2017-Python-Source): ANSI payment key dev  
+
+📫 **Reach me via [LinkedIn](https://www.linkedin.com/in/vincentbevia/) or email**
