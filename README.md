@@ -9,16 +9,16 @@ Senior lead engineer specializing in secure payments, cryptography, and satellit
 
 ### 🚀 Here are some of my projects
 
-- [DukptDemoApp](https://github.com/Bevia/DukptDemoApp): DUKPT simulation  
+- [DukptDemoApp](https://github.com/Bevia/DukptDemoApp): DUKPT simulation
+- [DukptX9.24Demo](https://github.com/Bevia/DukptX9.24Demo): Java demo for X9.24 key management
 - [X9.24-3‑2017](https://github.com/Bevia/X9.24-3-2017-Python-Source): ANSI payment key dev
 - [dukpt-ksn-key-generator](https://github.com/Bevia/dukpt-ksn-key-generator): Generates and simulates IPEK + KSN
-- [DukptX9.24Demo](https://github.com/Bevia/DukptX9.24Demo): Java demo for X9.24 key management
-- [CppChallenges](https://github.com/Bevia/CppChallenges): C++ algorithms and STL practice
 - [WhiteBoxCrypto](https://github.com/Bevia/White-box-cryptography): Demo of whitebox AES implementation
 - [Llama3Agent](https://github.com/Bevia/Llama3Agent): Llama AI demo  
 - [SeniorSoftwareStaffEngProgrammingTasks](https://github.com/Bevia/SeniorSoftwareStaffEngProgrammingTasks): Python programming task for software engineers
 - [MutualAthenticationEncryption](https://github.com/Bevia/MutualAthenticationEncryption): Secure mutual authentication and AES encryption with shared secret
 - [AuthMicroservice](https://github.com/Bevia/AuthMicroservice): Lightweight authentication microservice with JWT and secure password handling
+- [CppChallenges](https://github.com/Bevia/CppChallenges): C++ algorithms, STL practice, and advance telecommunication use cases (FIR, IIR, etc.)
 - [DigitalCommunications](https://github.com/Bevia/DigitalCommunications): Educational toolkit for digital communication system simulations in Python
 - [PLLCalc_Cpp](https://github.com/Bevia/PLLCalc_Cpp): C++ Phase-Locked Loop (PLL) calculator
 - [PLLcalc](https://github.com/Bevia/PLLcalc): Java Phase-Locked Loop (PLL) calculator
