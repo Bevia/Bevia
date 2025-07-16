@@ -13,3 +13,6 @@ Senior lead engineer specializing in secure payments and cryptography.
 - [X9.24-3‑2017](https://github.com/Bevia/X9.24-3-2017-Python-Source): ANSI payment key dev  
 
 📫 **Reach me via [LinkedIn](https://www.linkedin.com/in/vincentbevia/) or email**
+
+
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bevia&show_icons=true&theme=dark)
