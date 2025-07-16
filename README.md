@@ -1,11 +1,11 @@
 ## Hi there 👋
 # 👋 Hello! I’m Vincent
 
-Senior lead engineer specializing in secure payments and cryptography.
+Senior lead engineer specializing in secure payments, cryptography, and satellite telecommunications.
 
-🔹 **Expertise**: Python, C++, Java, Swift, microservices, HSMs, DUKPT/ANSI X9.24, VHDL, Verilog 
+🔹 Expertise: Python, C++, Java, Swift, microservices, HSMs, DUKPT/ANSI X9.24, VHDL, Verilog
 
-🔹 **Experience**: Architecting high-volume payment systems at Ant Group & MultiSafepay  
+🔹 Experience: Architecting high-volume payment systems at Ant Group & MultiSafepay, with a strong background in satellite communication systems.
 
 ### 🚀 Here are some of my projects
 
