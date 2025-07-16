@@ -13,7 +13,8 @@ Senior lead engineer specializing in secure payments and cryptography.
 - [X9.24-3‑2017](https://github.com/Bevia/X9.24-3-2017-Python-Source): ANSI payment key dev
 - [dukpt-ksn-key-generator](https://github.com/Bevia/dukpt-ksn-key-generator): Generates and simulates IPEK + KSN
 - [DukptX9.24Demo](https://github.com/Bevia/DukptX9.24Demo): Java demo for X9.24 key management
-- [CppChallenges](https://github.com/Bevia/CppChallenges): C++ algorithms and STL practice    
+- [CppChallenges](https://github.com/Bevia/CppChallenges): C++ algorithms and STL practice
+- [WhiteBoxCrypto](https://github.com/Bevia/White-box-cryptography): – Demo of whitebox AES implementation.
 
 📫 **Reach me via [LinkedIn](https://www.linkedin.com/in/vincentbevia/) or email: vbevia@gmail.com **
 
