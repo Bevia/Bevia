@@ -3,7 +3,7 @@
 
 Senior lead engineer specializing in secure payments, cryptography, and satellite telecommunications.
 
-🔹 Expertise: Python, C++, Java, Swift, microservices, HSMs, DUKPT/ANSI X9.24, VHDL, Verilog
+🔹 Expertise: Python, C++, Java, Swift, microservices, HSMs, DUKPT/ANSI X9.24, VHDL, Verilog; Matlab, Simulink.
 
 🔹 Experience: Architecting high-volume payment systems at Ant Group & MultiSafepay, with a strong background in satellite communication systems.
 
@@ -20,6 +20,8 @@ Senior lead engineer specializing in secure payments, cryptography, and satellit
 - [MutualAthenticationEncryption](https://github.com/Bevia/MutualAthenticationEncryption): Secure mutual authentication and AES encryption with shared secret
 - [AuthMicroservice](https://github.com/Bevia/AuthMicroservice): Lightweight authentication microservice with JWT and secure password handling
 - [DigitalCommunications](https://github.com/Bevia/DigitalCommunications): Educational toolkit for digital communication system simulations in Python
+- [PLLCalc_Cpp](https://github.com/Bevia/PLLCalc_Cpp): C++ Phase-Locked Loop (PLL) calculator
+- [PLLcalc](https://github.com/Bevia/PLLcalc): Java Phase-Locked Loop (PLL) calculator
 
 📫 **Reach me via [LinkedIn](https://www.linkedin.com/in/vincentbevia/) or email: vbevia@gmail.com **
 
