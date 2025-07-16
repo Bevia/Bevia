@@ -3,9 +3,11 @@
 
 Senior lead engineer specializing in secure payments, cryptography, and satellite telecommunications.
 
-🔹 Expertise: Python, C++, Java, Swift, microservices, HSMs, DUKPT/ANSI X9.24, VHDL, Verilog; Matlab, Simulink.
+🔹 **Expertise**: Python, C++, Java, Swift, microservices, HSMs, DUKPT/ANSI X9.24, VHDL, Verilog; Matlab, Simulink.
 
-🔹 Experience: Architecting high-volume payment systems at Ant Group & MultiSafepay, with a strong background in satellite communication systems.
+🔹 **Experience**:
+* Architecting high-volume payment systems at Ant Group & MultiSafepay.
+* Strong background in satellite communication systems, including [mention a key responsibility or area, e.g., signal processing, RF design, network architecture].
 
 ### 🚀 Here are some of my projects
 
