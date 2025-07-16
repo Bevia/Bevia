@@ -4,6 +4,7 @@
 Senior lead engineer specializing in secure payments and cryptography.
 
 🔹 **Expertise**: Python, C++, Java, Swift, microservices, HSMs, DUKPT/ANSI X9.24, VHDL, Verilog 
+
 🔹 **Experience**: Architecting high-volume payment systems at Ant Group & MultiSafepay  
 
 ### 🚀 Here are some of my projects
