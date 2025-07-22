@@ -22,7 +22,7 @@ Senior lead engineer specializing in secure payments, cryptography, and satellit
 - [AuthMicroservice](https://github.com/Bevia/AuthMicroservice): Lightweight authentication microservice with JWT and secure password handling
 - [CppChallenges](https://github.com/Bevia/CppChallenges): C++ algorithms, STL practice, and advanced digital signal processing implementations
 - [DigitalCommunications](https://github.com/Bevia/DigitalCommunications): Educational toolkit for digital communication system simulations in C++
-- [DigitalCommunicatinosPython](https://github.com/Bevia/DigitalCommunicationsPython): Educational toolkit for digital communication system simulations in python
+- [DigitalCommunicationsPython](https://github.com/Bevia/DigitalCommunicationsPython): Educational toolkit for digital communication system simulations in python
 - [PLLCalc_Cpp](https://github.com/Bevia/PLLCalc_Cpp): C++ Phase-Locked Loop (PLL) calculator
 - [PLLcalc](https://github.com/Bevia/PLLcalc): Java Phase-Locked Loop (PLL) calculator
 
