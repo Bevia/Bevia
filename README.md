@@ -1,7 +1,9 @@
 ## Hi there 👋
 # 👋 Hello! I’m Vincent
 
-Senior lead engineer specializing in secure payments, cryptography, and satellite telecommunications.
+Senior lead engineer specializing in secure payments, cryptography, and telecommunications.
+POS Architect at MultiSafepay with a strong background in payment systems, cryptography (DUKPT, AES), and end-to-end development of POS and SoftPOS solutions. 
+Previously worked as a Telecommunications Engineer at EFData (now COMTECH) and Fairchild, with expertise in satellite communications and RF systems.
 
 🔹 **Expertise**: Python, C++, Java, Swift, microservices, HSMs, DUKPT/ANSI X9.24, VHDL, Verilog; Matlab, Simulink.
 
