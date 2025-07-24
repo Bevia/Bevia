@@ -14,7 +14,8 @@ Previously worked as a Telecommunications Engineer at EFData (now COMTECH) and F
 ### 🚀 Here are some of my projects
 
 - [DukptDemoApp](https://github.com/Bevia/DukptDemoApp): DUKPT simulation
-- [DukptTools-AES](https://github.com/Bevia/DukptTools-AES): Secure PIN Block Simulation with AES DUKPT
+- [DukptTools-AES](https://github.com/Bevia/DukptTools-AES): Secure PIN Block Simulation with AES DUKPT (Kotlin)
+- [DukptToolsCpp-AES](https://github.com/Bevia/DukptToolsCpp-AES): Secure PIN Block Simulation with AES DUKPT (C++)
 - [DukptX9.24Demo](https://github.com/Bevia/DukptX9.24Demo): Java demo for X9.24 key management
 - [X9.24-3‑2017](https://github.com/Bevia/X9.24-3-2017-Python-Source): ANSI payment key dev
 - [dukpt-ksn-key-generator](https://github.com/Bevia/dukpt-ksn-key-generator): Simulates a secure PIN transaction lifecycle using DUKPT (Derived Unique Key Per Transaction)
