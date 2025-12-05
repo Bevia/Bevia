@@ -24,7 +24,7 @@ Previously worked as a Telecommunications Engineer at EFData (now COMTECH) and F
 - [Llama3Agent](https://github.com/Bevia/Llama3Agent): Llama AI demo  
 - [SeniorSoftwareStaffEngProgrammingTasks](https://github.com/Bevia/SeniorSoftwareStaffEngProgrammingTasks): Python programming task for software engineers
 - [MutualAthenticationEncryption](https://github.com/Bevia/MutualAthenticationEncryption): Secure mutual authentication and AES encryption with shared secret
-- [E-Commerce-Microservices](https://github.com/Bevia/E-Commerce-Microservices):A complete JWT-authenticated microservices system for e-commerce, built with Spring Boot 3.5 and Java 17.
+- [E-Commerce-Microservices](https://github.com/Bevia/E-Commerce-Microservices):A complete JWT-authenticated microservices system for e-commerce.
 - [AuthMicroservice](https://github.com/Bevia/AuthMicroservice): Lightweight authentication microservice with JWT and secure password handling
 - [CppChallenges](https://github.com/Bevia/CppChallenges): C++ algorithms, STL practice, and advanced digital signal processing implementations
 - [DigitalCommunications](https://github.com/Bevia/DigitalCommunications): Educational toolkit for digital communication system simulations in C++
