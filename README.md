@@ -21,7 +21,8 @@ Previously worked as a Telecommunications Engineer at EFData (now COMTECH) and F
 - [dukpt-ksn-key-generator](https://github.com/Bevia/dukpt-ksn-key-generator): Simulates a secure PIN transaction lifecycle using DUKPT (Derived Unique Key Per Transaction)
 - [WhiteBoxCrypto](https://github.com/Bevia/White-box-cryptography): Demo of whitebox AES implementation
 - [JWTAuth](https://github.com/Bevia/JWTAuth): JWT Microservice / Payment Microservice
-- [Llama3Agent](https://github.com/Bevia/Llama3Agent): Llama AI demo  
+- [Llama3Agent](https://github.com/Bevia/Llama3Agent): Llama AI demo
+- [BeviaLLM](https://github.com/Bevia/BeviaLLM): Implementation of a tiny GPT-like language model (Mini LLM)
 - [SeniorSoftwareStaffEngProgrammingTasks](https://github.com/Bevia/SeniorSoftwareStaffEngProgrammingTasks): Python programming task for software engineers
 - [MutualAthenticationEncryption](https://github.com/Bevia/MutualAthenticationEncryption): Secure mutual authentication and AES encryption with shared secret
 - [E-Commerce-Microservices](https://github.com/Bevia/E-Commerce-Microservices):A complete JWT-authenticated microservices system for e-commerce
