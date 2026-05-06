@@ -32,6 +32,7 @@ Previously worked as a Telecommunications Engineer at EFData (now COMTECH) and F
 - [DigitalCommunicationsPython](https://github.com/Bevia/DigitalCommunicationsPython): Educational toolkit for digital communication system simulations in python
 - [PLLCalc_Cpp](https://github.com/Bevia/PLLCalc_Cpp): C++ Phase-Locked Loop (PLL) calculator
 - [PLLcalc](https://github.com/Bevia/PLLcalc): Java Phase-Locked Loop (PLL) calculator
+- [Verilog DSP Agent](https://github.com/Bevia/verilog-dsp-agent): An AI-powered engineering assistant for DSP FIR design
 
 📫 **Reach me via [LinkedIn](https://www.linkedin.com/in/vincentbevia/) or email: vbevia@gmail.com **
 
