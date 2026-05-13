@@ -33,6 +33,7 @@ Previously worked as a Telecommunications Engineer at EFData (now COMTECH) and F
 - [PLLCalc_Cpp](https://github.com/Bevia/PLLCalc_Cpp): C++ Phase-Locked Loop (PLL) calculator
 - [PLLcalc](https://github.com/Bevia/PLLcalc): Java Phase-Locked Loop (PLL) calculator
 - [Verilog DSP Agent](https://github.com/Bevia/verilog-dsp-agent): An AI-powered engineering assistant for DSP FIR design
+- [MMSE-Wiener-Filter-Lab](https://github.com/Bevia/MMSE-Wiener-Filter-Lab): MMSE Wiener Filter Lab
 
 📫 **Reach me via [LinkedIn](https://www.linkedin.com/in/vincentbevia/) or email: vbevia@gmail.com **
 
