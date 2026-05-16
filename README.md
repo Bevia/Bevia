@@ -5,6 +5,8 @@ Senior lead engineer specializing in secure payments, cryptography, and telecomm
 POS Architect at MultiSafepay with a strong background in payment systems, cryptography (DUKPT, AES), and end-to-end development of POS and SoftPOS solutions. 
 Previously worked as a Telecommunications Engineer at EFData (now COMTECH) and Fairchild, with expertise in satellite communications and RF systems.
 
+This is my website: corebaseit.com
+
 🔹 **Expertise**: Python, C++, Java, Swift, microservices, HSMs, DUKPT/ANSI X9.24, VHDL, Verilog; Matlab, Simulink.
 
 🔹 **Experience**:
@@ -40,6 +42,6 @@ Previously worked as a Telecommunications Engineer at EFData (now COMTECH) and F
 - [Llama3Agent](https://github.com/Bevia/Llama3Agent): Llama AI demo
 - [BeviaLLM](https://github.com/Bevia/BeviaLLM): Implementation of a tiny GPT-like language model (Mini LLM)
 
-📫 **Reach me via [LinkedIn](https://www.linkedin.com/in/vincentbevia/) or email: vbevia@gmail.com **
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/vincentbevia/) or email: vbevia@gmail.com 
 
 
