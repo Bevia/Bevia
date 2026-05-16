@@ -13,6 +13,7 @@ Previously worked as a Telecommunications Engineer at EFData (now COMTECH) and F
 
 ### 🚀 Here are some of my projects
 
+#### Fintec - Payments - POS
 - [DukptDemoApp](https://github.com/Bevia/DukptDemoApp): DUKPT simulation
 - [DukptTools-AES](https://github.com/Bevia/DukptTools-AES): Secure PIN Block Simulation with AES DUKPT (Kotlin)
 - [DukptToolsCpp-AES](https://github.com/Bevia/DukptToolsCpp-AES): Secure PIN Block Simulation with AES DUKPT (C++)
@@ -21,19 +22,23 @@ Previously worked as a Telecommunications Engineer at EFData (now COMTECH) and F
 - [dukpt-ksn-key-generator](https://github.com/Bevia/dukpt-ksn-key-generator): Simulates a secure PIN transaction lifecycle using DUKPT (Derived Unique Key Per Transaction)
 - [WhiteBoxCrypto](https://github.com/Bevia/White-box-cryptography): Demo of whitebox AES implementation
 - [JWTAuth](https://github.com/Bevia/JWTAuth): JWT Microservice / Payment Microservice
-- [Llama3Agent](https://github.com/Bevia/Llama3Agent): Llama AI demo
-- [BeviaLLM](https://github.com/Bevia/BeviaLLM): Implementation of a tiny GPT-like language model (Mini LLM)
-- [SeniorSoftwareStaffEngProgrammingTasks](https://github.com/Bevia/SeniorSoftwareStaffEngProgrammingTasks): Python programming task for software engineers
-- [MutualAthenticationEncryption](https://github.com/Bevia/MutualAthenticationEncryption): Secure mutual authentication and AES encryption with shared secret
 - [E-Commerce-Microservices](https://github.com/Bevia/E-Commerce-Microservices):A complete JWT-authenticated microservices system for e-commerce
 - [AuthMicroservice](https://github.com/Bevia/AuthMicroservice): Lightweight authentication microservice with JWT and secure password handling
-- [CppChallenges](https://github.com/Bevia/CppChallenges): C++ algorithms, STL practice, and advanced digital signal processing implementations
+#### Digital Commnunications
 - [DigitalCommunications](https://github.com/Bevia/DigitalCommunications): Educational toolkit for digital communication system simulations in C++
 - [DigitalCommunicationsPython](https://github.com/Bevia/DigitalCommunicationsPython): Educational toolkit for digital communication system simulations in python
 - [PLLCalc_Cpp](https://github.com/Bevia/PLLCalc_Cpp): C++ Phase-Locked Loop (PLL) calculator
 - [PLLcalc](https://github.com/Bevia/PLLcalc): Java Phase-Locked Loop (PLL) calculator
 - [Verilog DSP Agent](https://github.com/Bevia/verilog-dsp-agent): An AI-powered engineering assistant for DSP FIR design
 - [MMSE-Wiener-Filter-Lab](https://github.com/Bevia/MMSE-Wiener-Filter-Lab): MMSE Wiener Filter Lab
+- [FIR-Explorer](https://github.com/Bevia/FIR-Explorer): FIR-Explorer
+#### Computer Science
+- [SeniorSoftwareStaffEngProgrammingTasks](https://github.com/Bevia/SeniorSoftwareStaffEngProgrammingTasks): Python programming task for software engineers
+- [MutualAthenticationEncryption](https://github.com/Bevia/MutualAthenticationEncryption): Secure mutual authentication and AES encryption with shared secret
+- [CppChallenges](https://github.com/Bevia/CppChallenges): C++ algorithms, STL practice, and advanced digital signal processing implementations
+#### AI
+- [Llama3Agent](https://github.com/Bevia/Llama3Agent): Llama AI demo
+- [BeviaLLM](https://github.com/Bevia/BeviaLLM): Implementation of a tiny GPT-like language model (Mini LLM)
 
 📫 **Reach me via [LinkedIn](https://www.linkedin.com/in/vincentbevia/) or email: vbevia@gmail.com **
 
