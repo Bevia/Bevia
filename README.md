@@ -39,6 +39,7 @@ I currently work as a POS Architect at MultiSafepay, focusing on payment systems
 
 - [DigitalCommunications](https://github.com/Bevia/DigitalCommunications): Educational toolkit for digital communication system simulations in C++.
 - [DigitalCommunicationsPython](https://github.com/Bevia/DigitalCommunicationsPython): Educational toolkit for digital communication system simulations in Python.
+- [DSP-Modem](https://github.com/Bevia/DSP-Modem): Digital Modem Design Lab 
 - [PLLCalc_Cpp](https://github.com/Bevia/PLLCalc_Cpp): C++ Phase-Locked Loop calculator.
 - [PLLcalc](https://github.com/Bevia/PLLcalc): Java Phase-Locked Loop calculator.
 - [Verilog DSP Agent](https://github.com/Bevia/verilog-dsp-agent): AI-powered engineering assistant for DSP FIR design.
