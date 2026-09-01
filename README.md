@@ -34,6 +34,7 @@ I currently work as a POS Architect at MultiSafepay, focusing on payment systems
 - [JWTAuth](https://github.com/Bevia/JWTAuth): JWT authentication and payment microservice demo.
 - [E-Commerce-Microservices](https://github.com/Bevia/E-Commerce-Microservices): JWT-authenticated microservices system for e-commerce.
 - [AuthMicroservice](https://github.com/Bevia/AuthMicroservice): Lightweight authentication microservice with JWT and secure password handling.
+- [graphql-payments](https://github.com/Bevia/graphql-payments): Small Spring Boot learning project for understanding GraphQL through a payments-style domain.
 
 ### Digital Communications & DSP
 
